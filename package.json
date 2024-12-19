@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "mathjs": "^14.0.0"
+  },
+  "scripts": {
+    "start": "node StockPriceForecast.js"
   }
 }
